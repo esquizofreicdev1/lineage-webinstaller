@@ -6,6 +6,16 @@ This source code not include packages(zip ROMS) for space limitations.
 
 For testing:
 
+Modifiy the package.json dependency in concret this line:
+
+"lineage-fastboot" : "file://Users/moisesencinas/Downloads/lineage-fastboot"
+
+For your path of the lineage-fastboot available in my repo:
+
+www.github.com/esquizofreicdev1/lineage-fastboot
+
+
+
 1:Install yarn with the command npm:
 
 npm install -g yarn
